@@ -1,6 +1,3 @@
-
-# William Almeida - Software Developer
-
 ## 🚀 Sobre mim
 Atualmente estudando desenvolvimento backend
 
